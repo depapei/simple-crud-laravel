@@ -5,7 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Online Technical Test - Rangga Andika Wibisana</title>
-        @vite('resources/css/app.css')
+        <!-- @vite('resources/css/app.css') -->
+        <link rel="stylesheet" href="{{ asset('build/assets/app-C_BXQvzt.css') }}">
     </head>
     <body class="antiliased">
         <div class="container mx-auto">
